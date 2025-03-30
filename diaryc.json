@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "date": "1977-11-11",
+        "title": "The City of Dreams",
+        "content": "I was born in Los Angeles today. Mom says she named me after Leonardo da Vinci because I kicked for the first time while she was looking at one of his paintings. Crazy, right? Maybe it’s a sign—like I was meant to do something big. Either way, here I am."
+    },
+    {
+        "id": 2,
+        "date": "1979-06-15",
+        "title": "The Split",
+        "content": "Mom and Dad split up today. I guess I don’t really understand what it all means yet, but I know one thing: they both still love me. I spend time with Mom in Echo Park and Dad in his little hippie world. It’s different, but we’re still a family."
+    },
+    {
+        "id": 3,
+        "date": "1983-04-23",
+        "title": "Growing Up in Hollywood",
+        "content": "Los Angeles is a wild place to grow up. The Hollywood glitz is everywhere, but there’s another side too—the tough streets, the struggle. Mom works so hard for us. I see it every day, and it makes me want to do something great. I don’t know how yet, but I will."
+    },
+    {
+        "id": 4,
+        "date": "1989-09-10",
+        "title": "My First Acting Gig",
+        "content": "I finally did it! After what felt like a million auditions, I got my first TV commercial. Just a car ad, nothing huge, but when I saw myself on screen? That feeling—man, it’s like electricity. I know this is just the beginning."
+    },
+    {
+        "id": 5,
+        "date": "1991-05-05",
+        "title": "Breaking Into TV",
+        "content": "I got a role on Growing Pains! It’s small, but it’s something. People might actually start recognizing me now. Maybe this is my shot. I just have to keep pushing, keep proving myself."
+    },
+    {
+        "id": 6,
+        "date": "1993-11-17",
+        "title": "Critics Take Notice",
+        "content": "What’s Eating Gilbert Grape premiered today. Playing Arnie was the hardest thing I’ve ever done, but people are actually noticing. Some are even saying ‘Oscar nomination.’ That’s insane. Me? An Oscar nomination?"
+    },
+    {
+        "id": 7,
+        "date": "1996-10-27",
+        "title": "A Ticket to Stardom",
+        "content": "Romeo + Juliet just came out, and wow—the fans, the screaming, the attention… it’s like nothing I’ve ever seen. Maybe this is what real fame feels like. It’s overwhelming, but I can’t lie—it’s also exciting."
+    },
+    {
+        "id": 8,
+        "date": "1997-12-19",
+        "title": "The Iceberg That Changed Everything",
+        "content": "Just watched Titanic with an audience for the first time. People were crying, cheering, totally lost in it. I don’t think I’ve ever seen anything like it. This movie is going to change my life. I can feel it."
+    },
+    {
+        "id": 9,
+        "date": "1998-07-02",
+        "title": "Living with Fame",
+        "content": "Everything’s different now. Paparazzi, screaming fans, cameras flashing—it’s everywhere, all the time. It’s thrilling, but it’s exhausting too. I just want to act, to tell stories, not to be some tabloid headline."
+    },
+    {
+        "id": 10,
+        "date": "2005-02-27",
+        "title": "Chasing an Oscar",
+        "content": "The Aviator didn’t win me the Oscar. Yeah, it stings a little, but that’s not why I do this. I love the craft, the challenge. My time will come. I just have to keep doing what I love."
+    }
+]
